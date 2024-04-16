@@ -1,4 +1,3 @@
-# system-architect-of-chinese-software-qualification-exam
 ## 备考步骤
 ### 基础知识（一个月内）
 - 32小时通关书籍提炼的考点（结合考纲）
